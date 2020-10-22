@@ -1,3 +1,3 @@
 # hello
 
-my first Repository
+My first Repository
